@@ -77,8 +77,9 @@ export const navItems = [
       id: 1,
       title: "Streakzy - Flutter Based Ecommerce Apk",
       des: "An Ecommerce App built by using Flutter, dart, Firebase and GetX State Management",
-      img: "/p1.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+      img: "/streakzy_app.svg",
+      // iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+      iconLists: ["",],
       link: "https://github.com/adrianhajdin?tab=repositories",
     },
     {
